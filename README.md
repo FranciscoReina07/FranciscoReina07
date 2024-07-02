@@ -1,16 +1,20 @@
-[![Profile-Git-Hub-Banner.png](https://i.postimg.cc/CMjcQ9MD/Profile-Git-Hub-Banner.png)](https://postimg.cc/dDVR7Hyt)
+
+<div align="center">
+  <a href="https://postimg.cc/dDVR7Hyt">
+    <img src="https://i.postimg.cc/CMjcQ9MD/Profile-Git-Hub-Banner.png" alt="Profile-Git-Hub-Banner">
+  </a>
+</div>
 
 
-<h1 align="center">Hi 👋, I'm Francisco Javier Reina Vallejo</h1>
-<h3 align="center">A passionate Data Analyst from Colombia</h3>
+<h3 align="center">👋 Hey there! I'm a data analyst who loves transforming data into insights. Welcome to my GitHub!💻</h3>
+<h3 align="center">I´m Francisco Javier, Data Analyst from Colombia a passionate for Data Analyst </h3>
 
 - 🌱 I’m currently learning **Python for Data Analisys**
 
 - 📫 How to reach me **franciscojavier4114@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/franciscoj-reinav-07-dtapbisql data" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/franciscoj-reinav-07-dtapbisql data" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
