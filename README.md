@@ -9,8 +9,6 @@
 <h3 align="center">👋 Hey there! I'm a data analyst who loves transforming data into insights. Welcome to my GitHub!💻</h3>
 <h3 align="center">I´m Francisco Javier, Data Analyst from Colombia a passionate for Data Analyst </h3>
 
-- 🌱 I’m currently learning **Python for Data Analisys**
-
 - 📫 How to reach me **franciscojavier4114@gmail.com**
 
 
